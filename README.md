@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on MERN and Next JS stack along with python.<br>👯 I’m looking to collaborate on projects involving AI and Data Analaytics.<br>🌱 I’m currently learning Data Science<br>💬 Ask me anyrthing in the realms of Data Science, Web Development, AI.
+🔭 I’m currently working on MERN and Next JS stack along with python.<br>👯 I’m looking to collaborate on projects involving AI and Data Science/Analytics.<br>🌱 I’m currently learning Data Science<br>💬 Ask me anything in the realms of Data Science, Web Development, Artificial Intelligence .
 
 
 ## 🌐 Socials:
